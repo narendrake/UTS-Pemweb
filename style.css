@@ -1,11 +1,9 @@
-/* Bootstrap container styling */
 .container {
   max-width: 100%;
   padding: 15px;
   margin: 0 auto;
 }
 
-/* Responsive Sidebar Navigation */
 .sidebar {
   display: block;
   width: 200px;
@@ -23,7 +21,6 @@
   padding: 15px;
 }
 
-/* Navigation Styling */
 nav a {
   display: block;
   padding: 10px;
@@ -35,7 +32,6 @@ nav a:hover {
   background-color: #ddd;
 }
 
-/* Table Styling */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -56,7 +52,6 @@ tbody tr:hover {
   background-color: #ddd;
 }
 
-/* Scrollable table */
 .table-container {
   max-height: 300px;
   overflow-y: auto;
@@ -88,7 +83,6 @@ img {
   margin-bottom: 20px;
 }
 
-/* Mobile adjustments */
 @media (max-width: 575px) {
   .sidebar {
     display: block;
